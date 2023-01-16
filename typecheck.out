@@ -1,0 +1,18 @@
+BUILD SUCCESSFUL in 17s
+2 actionable tasks: 2 executed
+entering iteration 1
+
+BUILD SUCCESSFUL in 633ms
+2 actionable tasks: 2 up-to-date
+
+BUILD SUCCESSFUL in 575ms
+1 actionable task: 1 executed
+putting the diff for iteration 1 into /home/dan/Documents/CFResearch/experiments-live/lookup-wpi/iteration1.diff
+entering iteration 2
+
+BUILD SUCCESSFUL in 16s
+2 actionable tasks: 2 executed
+
+BUILD SUCCESSFUL in 503ms
+1 actionable task: 1 executed
+putting the diff for iteration 2 into /home/dan/Documents/CFResearch/experiments-live/lookup-wpi/iteration2.diff
