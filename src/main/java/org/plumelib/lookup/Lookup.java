@@ -413,7 +413,7 @@ public final class Lookup {
    * @return the next entry, or null
    * @throws IOException if there is a problem reading a file
    */
-  public static EntryReader.@Nullable Entry old_getEntry(EntryReader reader) throws IOException {
+  public static EntryReader.Entry old_getEntry(EntryReader reader) throws IOException {
 
     try {
 
