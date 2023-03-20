@@ -1,18 +1,37 @@
-BUILD SUCCESSFUL in 17s
-2 actionable tasks: 2 executed
-entering iteration 1
-
-BUILD SUCCESSFUL in 633ms
-2 actionable tasks: 2 up-to-date
-
-BUILD SUCCESSFUL in 575ms
-1 actionable task: 1 executed
-putting the diff for iteration 1 into /home/dan/Documents/CFResearch/experiments-live/lookup-wpi/iteration1.diff
-entering iteration 2
-
-BUILD SUCCESSFUL in 16s
-2 actionable tasks: 2 executed
-
-BUILD SUCCESSFUL in 503ms
-1 actionable task: 1 executed
-putting the diff for iteration 2 into /home/dan/Documents/CFResearch/experiments-live/lookup-wpi/iteration2.diff
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 3,col 1): Enclosing type of static field sortByBeginPosition not found: com.github.javaparser.utils.PositionUtils
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 4,col 1): Imported type not found: com.github.javaparser.ParseProblemException
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 5,col 1): Imported type not found: com.github.javaparser.Position
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 6,col 1): Imported type not found: com.github.javaparser.Range
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 7,col 1): Imported type not found: com.github.javaparser.StaticJavaParser
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 8,col 1): Imported type not found: com.github.javaparser.ast.CompilationUnit
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 9,col 1): Imported type not found: com.github.javaparser.ast.Node
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 10,col 1): Imported type not found: com.github.javaparser.ast.NodeList
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 11,col 1): Imported type not found: com.github.javaparser.ast.PackageDeclaration
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 12,col 1): Imported type not found: com.github.javaparser.ast.body.AnnotationDeclaration
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 13,col 1): Imported type not found: com.github.javaparser.ast.body.AnnotationMemberDeclaration
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 14,col 1): Imported type not found: com.github.javaparser.ast.body.ClassOrInterfaceDeclaration
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 15,col 1): Imported type not found: com.github.javaparser.ast.body.ConstructorDeclaration
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 16,col 1): Imported type not found: com.github.javaparser.ast.body.EnumConstantDeclaration
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 17,col 1): Imported type not found: com.github.javaparser.ast.body.EnumDeclaration
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 18,col 1): Imported type not found: com.github.javaparser.ast.body.FieldDeclaration
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 19,col 1): Imported type not found: com.github.javaparser.ast.body.MethodDeclaration
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 20,col 1): Imported type not found: com.github.javaparser.ast.body.Parameter
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 21,col 1): Imported type not found: com.github.javaparser.ast.body.VariableDeclarator
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 22,col 1): Imported type not found: com.github.javaparser.ast.comments.Comment
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 23,col 1): Imported type not found: com.github.javaparser.ast.expr.AnnotationExpr
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 24,col 1): Imported type not found: com.github.javaparser.ast.expr.AssignExpr
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 25,col 1): Imported type not found: com.github.javaparser.ast.expr.Expression
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 26,col 1): Imported type not found: com.github.javaparser.ast.expr.FieldAccessExpr
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 27,col 1): Imported type not found: com.github.javaparser.ast.expr.NameExpr
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 28,col 1): Imported type not found: com.github.javaparser.ast.expr.ThisExpr
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 29,col 1): Imported type not found: com.github.javaparser.ast.expr.UnaryExpr
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 30,col 1): Imported type not found: com.github.javaparser.ast.nodeTypes.NodeWithJavadoc
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 31,col 1): Imported type not found: com.github.javaparser.ast.stmt.BlockStmt
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 32,col 1): Imported type not found: com.github.javaparser.ast.stmt.ExpressionStmt
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 33,col 1): Imported type not found: com.github.javaparser.ast.stmt.ReturnStmt
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 34,col 1): Imported type not found: com.github.javaparser.ast.stmt.Statement
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 35,col 1): Imported type not found: com.github.javaparser.ast.type.PrimitiveType
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 36,col 1): Imported type not found: com.github.javaparser.ast.type.Type
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 37,col 1): Imported type not found: com.github.javaparser.ast.visitor.VoidVisitorAdapter
+warning: /tmp/WPITEMP-lookup/org/plumelib/javadoc/RequireJavadoc-org.checkerframework.checker.formatter.FormatterChecker.ajava:(line 67,col 1): Type not found: org.plumelib.javadoc.RequireJavadoc
+36 warnings
