@@ -1,0 +1,5 @@
+> Task :createCheckerFrameworkManifest
+> Task :compileJava
+
+BUILD SUCCESSFUL in 6s
+2 actionable tasks: 2 executed
