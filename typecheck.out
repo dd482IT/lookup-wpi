@@ -1,0 +1,17 @@
+> Task :createCheckerFrameworkManifest
+
+> Task :compileJava
+/Users/mjk76/Research/wpi/playground/lookup-wpi/src/main/java/org/plumelib/lookup/Lookup.java:426: warning: [nullness:return] incompatible types in return.
+        return null;
+               ^
+  type of expression: null (NullType)
+  method return type: @Initialized @NonNull Entry
+/Users/mjk76/Research/wpi/playground/lookup-wpi/src/main/java/org/plumelib/lookup/Lookup.java:485: warning: [nullness:return] incompatible types in return.
+      return null;
+             ^
+  type of expression: null (NullType)
+  method return type: @Initialized @NonNull Entry
+2 warnings
+
+BUILD SUCCESSFUL in 6s
+2 actionable tasks: 2 executed
